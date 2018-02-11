@@ -30,9 +30,3 @@ if (!require('Rd2roxygen') install.packages('Rd2roxygen')
 library(Rd2roxygen)
 rab('animation', install = TRUE)
 ```
-
-## Contact
-
-Bugs and feature requests can be filed to
-<https://github.com/yihui/animation/issues>. Pull requests are also welcome.
-
